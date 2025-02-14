@@ -7,6 +7,9 @@ cryptpad is my submission for the hack club ysws program called [hackpad (v2)](h
 
 <!-- <img width="228" alt="image" src="https://github.com/user-attachments/assets/61160b7a-bcc0-4209-b475-48670ae8b06f" /> -->
 <img width="495" alt="image" src="https://github.com/user-attachments/assets/4967301c-8624-430e-ade6-8aa2191354de" />
+<img height="283" alt="image" src="https://github.com/user-attachments/assets/c4450e54-2e62-432e-b96e-34794b0f440d" />
+
+
 
 
 
