@@ -25,6 +25,15 @@ i followed the hackpad case guide and referred to the v1 workshop recordings to 
 <img width="240" alt="image" src="https://github.com/user-attachments/assets/4a6f88bd-6f4d-483a-91a4-82ba77c5c51a" />
 <img width="270" alt="image" src="https://github.com/user-attachments/assets/6437315c-5ba0-4177-bf92-9f6f60ac6abb" />
 
+**barebones case -**
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/491955c7-cdd8-4159-a4af-16b87b1102d8" />
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/fc7a809c-a639-451f-93f3-8cd0952c1038" />
+
+
+
+
+
 ## firmware
 
 
