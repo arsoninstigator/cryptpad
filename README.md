@@ -11,10 +11,10 @@ cryptpad is my submission for the hack club ysws program called [hackpad (v2)](h
 <img height="283" alt="image" src="https://github.com/user-attachments/assets/c4450e54-2e62-432e-b96e-34794b0f440d" />
 
 <!-- <img width="500" alt="image" src="https://github.com/user-attachments/assets/996406ff-820e-44ee-bf5a-bdd9dcaf08a5" />
+![image](https://github.com/user-attachments/assets/01b18c36-ba45-4ef2-9264-d93b0e797bcb)
+![image](https://github.com/user-attachments/assets/757076c4-be4d-4d9f-b925-9199202da2e5)
+![image](https://github.com/user-attachments/assets/1a796de8-ed10-4cf3-9406-c45a5e1a582c)
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/b5a21b20-b01c-47b9-9a14-543ea63f7429" /> -->
-
-
-
 
 
 
