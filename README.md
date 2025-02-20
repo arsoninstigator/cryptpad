@@ -4,7 +4,6 @@ cryptpad is my submission for the hack club ysws program called [hackpad (v2)](h
 
 ## pcb (schematic + board)
 **what i included:** xiao rp2040, 11 switches, rotary encoder, oled screen <br>
-**software used:** kicad 8.99 (windows)
 >you can find a preview of the schematic [here](renders/hackpad-schematic.png) and the pcb [here](renders/hackpad-pcb.png)
 
 <!-- <img width="228" alt="image" src="https://github.com/user-attachments/assets/61160b7a-bcc0-4209-b475-48670ae8b06f" /> -->
@@ -25,6 +24,13 @@ i followed the hackpad case guide and referred to the v1 workshop recordings to 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/697f3218-a87f-4925-b515-5ec5f4075b79" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b49ceea2-039d-4606-9115-db5ccde81f37" />
+<!-- <img width="400" alt="image" src="https://github.com/user-attachments/assets/f0ff252a-2fcb-4422-9775-8f8242f9ccad" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8ffbe30c-ad99-468d-8f67-eb00976a5f20" />
+
+![image](https://github.com/user-attachments/assets/f0ff252a-2fcb-4422-9775-8f8242f9ccad)
+![image](https://github.com/user-attachments/assets/8ffbe30c-ad99-468d-8f67-eb00976a5f20) -->
+
+
 
 
 
