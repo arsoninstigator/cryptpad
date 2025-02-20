@@ -22,6 +22,8 @@ cryptpad is my submission for the hack club ysws program called [hackpad (v2)](h
 ## case
 i followed the hackpad case guide and referred to the v1 workshop recordings to build my very very rough case (that i do plan on improving) and my idea for the <ins>coffin shaped case</ins> and the overall dark theme of my macropad was largely inspired by an innate need to be edgy and a monster high phone case i saw on etsy (see [here](progress.md)) <br><br>
 
+![image](https://github.com/user-attachments/assets/c1d251e6-053e-4106-b993-d55a7fb4f25b)
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/697f3218-a87f-4925-b515-5ec5f4075b79" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b49ceea2-039d-4606-9115-db5ccde81f37" />
 <!-- <img width="400" alt="image" src="https://github.com/user-attachments/assets/f0ff252a-2fcb-4422-9775-8f8242f9ccad" />
