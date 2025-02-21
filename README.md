@@ -26,6 +26,8 @@ i followed the hackpad case guide and referred to the v1 workshop recordings to 
  <br><br>
 
 ![image](https://github.com/user-attachments/assets/ee38c26c-885c-4a0e-a007-0ec91dba20bc)
+![image](https://github.com/user-attachments/assets/3843ec06-ac2c-4b52-b3a0-88bc7c91ef10)
+
 <!--
 ![image](https://github.com/user-attachments/assets/c1d251e6-053e-4106-b993-d55a7fb4f25b)
 
